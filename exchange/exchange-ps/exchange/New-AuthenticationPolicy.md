@@ -330,7 +330,7 @@ This parameter is available only in the cloud-based service.
 
 The AllowLegacyExchangeTokens switch specifies whether to allow legacy Exchange tokens, such as Exchange user identity and callback tokens, to be issued to Outlook add-ins in your Exchange environment. You don't need to specify a value with this switch.
 
-**Important**: Note that the [Microsoft Report Message and Report Phishing Outlook add-ins require legacy Exchange tokens to work. For more information on these add-ins, see [Enable the Microsoft Report Message or the Report Phishing add-ins](https://learn.microsoft.com/microsoft-365/security/office-365-security/submissions-users-report-message-add-in-configure).
+**Important**: Note that the Microsoft Report Message and Report Phishing Outlook add-ins require legacy Exchange tokens to work. For more information on these add-ins, see [Enable the Microsoft Report Message or the Report Phishing add-ins](https://learn.microsoft.com/microsoft-365/security/office-365-security/submissions-users-report-message-add-in-configure).
 
 ```yaml
 Type: SwitchParameter
